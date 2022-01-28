@@ -1,0 +1,577 @@
+title,price,url
+詳解 インシデントレスポンス ,"3,696",https://www.oreilly.co.jp/books/9784873119748/
+プログラミングRust 第2版,"4,224",https://www.oreilly.co.jp/books/9784873119786/
+マスタリングOkta,"2,816",https://www.oreilly.co.jp/books/9784873119717/
+JavaScript 第7版,"4,048",https://www.oreilly.co.jp/books/9784873119700/
+Googleのソフトウェアエンジニアリング,"3,872",https://www.oreilly.co.jp/books/9784873119656/
+AI技術を活かすためのスキル ,"2,464",https://www.oreilly.co.jp/books/9784873119557/
+セキュリティエンジニアのための機械学習,"2,640",https://www.oreilly.co.jp/books/9784873119076/
+AIの心理学,"2,640",https://www.oreilly.co.jp/books/9784873119625/
+機械学習デザインパターン,"3,344",https://www.oreilly.co.jp/books/9784873119564/
+実践 AWSデータサイエンス,"3,344",https://www.oreilly.co.jp/books/9784873119687/
+段ボールで作る！ 動く、飛ぶ、遊ぶ工作,"1,936",https://www.oreilly.co.jp/books/9784873119649/
+入門 機械学習パイプライン,"3,344",https://www.oreilly.co.jp/books/9784873119519/
+実践 時系列解析,"3,168",https://www.oreilly.co.jp/books/9784873119601/
+メタファーとしての発酵,"1,760",https://www.oreilly.co.jp/books/9784873119632/
+SREの探求,"4,048",https://www.oreilly.co.jp/books/9784873119618/
+並行プログラミング入門 ,"2,816",https://www.oreilly.co.jp/books/9784873119595/
+Reactハンズオンラーニング 第2版 ,"2,992",https://www.oreilly.co.jp/books/9784873119380/
+micro:bitではじめるプログラミング 第3版,"1,936",https://www.oreilly.co.jp/books/9784873119571/
+初めてのWebGL 2 第2版,"3,520",https://www.oreilly.co.jp/books/9784873119373/
+初めてのSQL 第3版,"2,464",https://www.oreilly.co.jp/books/9784873119588/
+詳説 データベース,"3,344",https://www.oreilly.co.jp/books/9784873119540/
+Make: Electronics 実践編,"2,816",https://www.oreilly.co.jp/books/9784873119434/
+プログラミングC# 第8版,"4,224",https://www.oreilly.co.jp/books/9784873119366/
+PyTorchとfastaiではじめるディープラーニング,"3,344",https://www.oreilly.co.jp/books/9784873119427/
+UXデザインの法則,"1,584",https://www.oreilly.co.jp/books/9784873119496/
+分子調理の日本食,"2,112",https://www.oreilly.co.jp/books/9784873119489/
+ユニコーン企業のひみつ,"1,936",https://www.oreilly.co.jp/books/9784873119465/
+仕事ではじめる機械学習 第2版,"2,640",https://www.oreilly.co.jp/books/9784873119472/
+機械学習による実用アプリケーション構築,"2,464",https://www.oreilly.co.jp/books/9784873119502/
+データサイエンス人材の行動規範,"1,320",https://www.oreilly.co.jp/books/9784873119526/
+データベースリライアビリティエンジニアリング,"2,992",https://www.oreilly.co.jp/books/9784873119403/
+インタフェースデザインの心理学 第2版,"2,552",https://www.oreilly.co.jp/books/9784873119458/
+アメリカからやってきた、みんなで作るおもち、大福、おだんごの本,"1,584",https://www.oreilly.co.jp/books/9784873119441/
+スクラム実践者が知るべき97のこと,"2,112",https://www.oreilly.co.jp/books/9784873119397/
+入門 Python 3 第2版,"3,344",https://www.oreilly.co.jp/books/9784873119328/
+Raspberry Piクックブック 第3版,"3,256",https://www.oreilly.co.jp/books/9784873119410/
+Pythonチュートリアル 第4版,"1,584",https://www.oreilly.co.jp/books/9784873119359/
+SolidityとEthereumによる実践スマートコントラクト開発,"2,992",https://www.oreilly.co.jp/books/9784873119342/
+モノリスからマイクロサービスへ ,"2,816",https://www.oreilly.co.jp/books/9784873119311/
+計算できるもの、計算できないもの ,"4,048",https://www.oreilly.co.jp/books/9784873119335/
+初めてのマルウェア解析,"3,520",https://www.oreilly.co.jp/books/9784873119298/
+ウェブ最適化ではじめる機械学習,"3,080",https://www.oreilly.co.jp/books/9784873119168/
+ハンズオンJavaScript,"3,168",https://www.oreilly.co.jp/books/9784873119229/
+ハンズオンNode.js,"3,256",https://www.oreilly.co.jp/books/9784873119236/
+Pythonではじめる数学の冒険,"2,640",https://www.oreilly.co.jp/books/9784873119304/
+データサイエンスのための統計学入門 第2版,"2,816",https://www.oreilly.co.jp/books/9784873119267/
+scikit-learn、Keras、TensorFlowによる実践機械学習 第2版,"4,224",https://www.oreilly.co.jp/books/9784873119281/
+プログラミング・ビットコイン,"3,168",https://www.oreilly.co.jp/books/9784873119021/
+プロダクトマネジメント,"2,112",https://www.oreilly.co.jp/books/9784873119250/
+生成 Deep Learning,"3,344",https://www.oreilly.co.jp/books/9784873119205/
+リアルワールドバグハンティング,"2,640",https://www.oreilly.co.jp/books/9784873119212/
+バイオインフォマティクスデータスキル,"3,872",https://www.oreilly.co.jp/books/9784873118635/
+動かして学ぶ量子コンピュータプログラミング,"3,168",https://www.oreilly.co.jp/books/9784873119199/
+人工知能のアーキテクトたち,"2,816",https://www.oreilly.co.jp/books/9784873119120/
+キッチンサイエンスラボ,"1,760",https://www.oreilly.co.jp/books/9784873119151/
+Scratchではじめる機械学習,"1,936",https://www.oreilly.co.jp/books/9784873119182/
+Effective Python 第2版,"3,168",https://www.oreilly.co.jp/books/9784873119175/
+どろどろこねこねで楽しい！　手作りスライムとこむぎねんどの本,"1,936",https://www.oreilly.co.jp/books/9784873118987/
+サイトリライアビリティワークブック,"4,048",https://www.oreilly.co.jp/books/9784873119137/
+行動を変えるデザイン,"2,992",https://www.oreilly.co.jp/books/9784873119144/
+ゼロからはじめるデータサイエンス 第2版,"2,992",https://www.oreilly.co.jp/books/9784873119113/
+創造する心,"2,112",https://www.oreilly.co.jp/books/9784873119007/
+Real World HTTP 第2版,"3,168",https://www.oreilly.co.jp/books/9784873119038/
+実践 bashによるサイバーセキュリティ対策,"2,904",https://www.oreilly.co.jp/books/9784873119052/
+ゼロから作るDeep Learning ❸ ,"3,520",https://www.oreilly.co.jp/books/9784873119069/
+Pythonではじめる教師なし学習 ,"3,168",https://www.oreilly.co.jp/books/9784873119106/
+詳解 ビットコイン ,"3,344",https://www.oreilly.co.jp/books/9784873119083/
+みんなでアジャイル ,"2,112",https://www.oreilly.co.jp/books/9784873119090/
+プログラミングTypeScript ,"2,992",https://www.oreilly.co.jp/books/9784873119045/
+Make: Electronics 第2版,"2,816",https://www.oreilly.co.jp/books/9784873118970/
+Kubernetesで実践するクラウドネイティブDevOps,"3,080",https://www.oreilly.co.jp/books/9784873119014/
+データサイエンス設計マニュアル,"3,344",https://www.oreilly.co.jp/books/9784873118918/
+Rクックブック 第2版,"3,168",https://www.oreilly.co.jp/books/9784873118857/
+Pythonによるファイナンス 第2版,"3,960",https://www.oreilly.co.jp/books/9784873118901/
+マスタリング・イーサリアム,"3,520",https://www.oreilly.co.jp/books/9784873118963/
+Design It!,"3,168",https://www.oreilly.co.jp/books/9784873118956/
+Rグラフィックスクックブック 第2版,"3,168",https://www.oreilly.co.jp/books/9784873118925/
+初めてのGraphQL,"2,288",https://www.oreilly.co.jp/books/9784873118932/
+インタフェースデザインのお約束,"1,936",https://www.oreilly.co.jp/books/9784873118949/
+ゼロトラストネットワーク,"2,816",https://www.oreilly.co.jp/books/9784873118888/
+Juliaプログラミングクックブック,"3,344",https://www.oreilly.co.jp/books/9784873118895/
+NumPyによるデータ分析入門,"2,464",https://www.oreilly.co.jp/books/9784873118871/
+レガシーコードからの脱却,"2,552",https://www.oreilly.co.jp/books/9784873118864/
+Raspberry Piで学ぶコンピュータアーキテクチャ,"3,696",https://www.oreilly.co.jp/books/9784873118659/
+ゲームデザインバイブル 第2版,"4,048",https://www.oreilly.co.jp/books/9784873118017/
+メイカーとスタートアップのための量産入門,"2,024",https://www.oreilly.co.jp/books/9784873118840/
+詳説 Deep Learning,"3,872",https://www.oreilly.co.jp/books/9784873118802/
+世界チャンピオンの紙飛行機ブック,"1,936",https://www.oreilly.co.jp/books/9784873118833/
+mBotでものづくりをはじめよう,"2,112",https://www.oreilly.co.jp/books/9784873118796/
+データ指向アプリケーションデザイン,"4,048",https://www.oreilly.co.jp/books/9784873118703/
+Python計算機科学新教本,"2,640",https://www.oreilly.co.jp/books/9784873118819/
+IPythonデータサイエンスクックブック 第2版,"3,696",https://www.oreilly.co.jp/books/9784873118543/
+入門 Prometheus,"3,168",https://www.oreilly.co.jp/books/9784873118772/
+Node.jsデザインパターン 第2版,"3,696",https://www.oreilly.co.jp/books/9784873118734/
+Head First はじめてのプログラミング,"2,640",https://www.oreilly.co.jp/books/9784873118741/
+分散システムデザインパターン,"2,288",https://www.oreilly.co.jp/books/9784873118758/
+MESHをはじめよう,"2,112",https://www.oreilly.co.jp/books/9784873118536/
+PythonによるWebスクレイピング 第2版,"2,816",https://www.oreilly.co.jp/books/9784873118710/
+PythonによるAIプログラミング入門,"2,992",https://www.oreilly.co.jp/books/9784873118727/
+Real World HTTP ミニ版,0,https://www.oreilly.co.jp/books/9784873118789/
+WTF経済,"2,112",https://www.oreilly.co.jp/books/9784873118598/
+機械学習のための特徴量エンジニアリング,"2,640",https://www.oreilly.co.jp/books/9784873118680/
+Modern C++チャレンジ,"2,992",https://www.oreilly.co.jp/books/9784873118697/
+入門 監視,"2,464",https://www.oreilly.co.jp/books/9784873118642/
+インテリジェンス駆動型インシデントレスポンス,"2,992",https://www.oreilly.co.jp/books/9784873118666/
+初めてのProcessing 第2版,"3,256",https://www.oreilly.co.jp/books/9784873118611/
+Python機械学習クックブック,"2,992",https://www.oreilly.co.jp/books/9784873118673/
+デザイニング・ボイスユーザーインターフェース,"2,816",https://www.oreilly.co.jp/books/9784873118581/
+家庭の低温調理,"2,816",https://www.oreilly.co.jp/books/9784873118628/
+バイオビルダー,"2,112",https://www.oreilly.co.jp/books/9784873118338/
+エレガントなSciPy,"2,992",https://www.oreilly.co.jp/books/9784873118604/
+Go言語による並行処理,"2,464",https://www.oreilly.co.jp/books/9784873118468/
+RとKerasによるディープラーニング,"3,520",https://www.oreilly.co.jp/books/9784873118574/
+エンジニアのためのマネジメントキャリアパス,"2,288",https://www.oreilly.co.jp/books/9784873118482/
+問題解決のPythonプログラミング,"2,464",https://www.oreilly.co.jp/books/9784873118512/
+Unityによるモバイルゲーム開発,"2,640",https://www.oreilly.co.jp/books/9784873118505/
+進化的アーキテクチャ ,"2,464",https://www.oreilly.co.jp/books/9784873118567/
+直感 Deep Learning,"2,992",https://www.oreilly.co.jp/books/9784873118260/
+ハンダづけをはじめよう,"1,232",https://www.oreilly.co.jp/books/9784873118529/
+Kafka,"3,168",https://www.oreilly.co.jp/books/9784873118499/
+作って動かすALife,"2,288",https://www.oreilly.co.jp/books/9784873118475/
+生き物としての力を取り戻す50の自然体験,"1,936",https://www.oreilly.co.jp/books/9784873118420/
+Pythonによるデータ分析入門 第2版,"3,344",https://www.oreilly.co.jp/books/9784873118451/
+ゼロから作るDeep Learning ❷,"3,168",https://www.oreilly.co.jp/books/9784873118369/
+コンピュータサイエンス探偵の事件簿,"2,200",https://www.oreilly.co.jp/books/9784873118437/
+Go言語でつくるインタプリタ,"2,992",https://www.oreilly.co.jp/books/9784873118222/
+実践 パケット解析 第3版,"2,816",https://www.oreilly.co.jp/books/9784873118444/
+Pythonデータサイエンスハンドブック,"3,696",https://www.oreilly.co.jp/books/9784873118413/
+詳解 OpenCV 3,"5,984",https://www.oreilly.co.jp/books/9784873118376/
+実践 CSIRTプレイブック,"2,816",https://www.oreilly.co.jp/books/9784873118383/
+Rによるテキストマイニング,"2,640",https://www.oreilly.co.jp/books/9784873118307/
+実践 Deep Learning,"3,168",https://www.oreilly.co.jp/books/9784873118321/
+Head First Python 第2版,"3,344",https://www.oreilly.co.jp/books/9784873118291/
+Effective DevOps,"3,168",https://www.oreilly.co.jp/books/9784873118352/
+入門 Kubernetes,"2,464",https://www.oreilly.co.jp/books/9784873118406/
+Raspberry Piをはじめよう 第3版,"1,760",https://www.oreilly.co.jp/books/9784873118314/
+エレクトロニクスをはじめよう,"1,760",https://www.oreilly.co.jp/books/9784873118277/
+マッピングエクスペリエンス,"3,168",https://www.oreilly.co.jp/books/9784873118000/
+初めてのPerl 第7版,"3,168",https://www.oreilly.co.jp/books/9784873118246/
+カーハッカーズ・ハンドブック,"2,816",https://www.oreilly.co.jp/books/9784873118239/
+ベタープログラマ,"2,640",https://www.oreilly.co.jp/books/9784873118208/
+プログラミングROS,"3,344",https://www.oreilly.co.jp/books/9784873118093/
+入門 PySpark,"2,992",https://www.oreilly.co.jp/books/9784873118185/
+Rではじめるデータサイエンス,"3,520",https://www.oreilly.co.jp/books/9784873118147/
+Sphinxをはじめよう 第2版,"1,980",https://www.oreilly.co.jp/books/9784873118192/
+Fluent Python,"5,104",https://www.oreilly.co.jp/books/9784873118178/
+初めての自動テスト,"2,464",https://www.oreilly.co.jp/books/9784873118161/
+プロダクションレディマイクロサービス,"2,288",https://www.oreilly.co.jp/books/9784873118154/
+UnityによるARゲーム開発,"2,816",https://www.oreilly.co.jp/books/9784873118109/
+PythonとJavaScriptではじめるデータビジュアライゼーション,"3,344",https://www.oreilly.co.jp/books/9784873118086/
+私たちはみなメイカーだ,"2,112",https://www.oreilly.co.jp/books/9784873118123/
+SRE サイトリライアビリティエンジニアリング,"4,224",https://www.oreilly.co.jp/books/9784873117911/
+アイソモーフィックJavaScript,"2,464",https://www.oreilly.co.jp/books/9784873118079/
+Lean UX 第2版,"2,200",https://www.oreilly.co.jp/books/9784873118055/
+サーバーレスシングルページアプリケーション,"2,288",https://www.oreilly.co.jp/books/9784873118062/
+退屈なことはPythonにやらせよう,"3,256",https://www.oreilly.co.jp/books/9784873117782/
+マイクロシェルター,"2,288",https://www.oreilly.co.jp/books/9784873118031/
+Pythonではじめる機械学習,"2,992",https://www.oreilly.co.jp/books/9784873117980/
+SVGエッセンシャルズ 第2版,"3,168",https://www.oreilly.co.jp/books/9784873117973/
+エラスティックリーダーシップ,"2,464",https://www.oreilly.co.jp/books/9784873118024/
+GitHubツールビルディング,"2,816",https://www.oreilly.co.jp/books/9784873117959/
+Pythonではじめるデータラングリング,"3,256",https://www.oreilly.co.jp/books/9784873117942/
+Infrastructure as Code,"3,168",https://www.oreilly.co.jp/books/9784873117966/
+Make: Analog Synthesizers,"2,640",https://www.oreilly.co.jp/books/9784873117515/
+初めてのPHP,"2,640",https://www.oreilly.co.jp/books/9784873117935/
+Reactビギナーズガイド,"2,200",https://www.oreilly.co.jp/books/9784873117881/
+詳解 システム・パフォーマンス,"4,752",https://www.oreilly.co.jp/books/9784873117904/
+Optimized C++,"3,520",https://www.oreilly.co.jp/books/9784873117928/
+初めてのJavaScript 第3版,"2,816",https://www.oreilly.co.jp/books/9784873117836/
+Prototyping Lab 第2版,"3,344",https://www.oreilly.co.jp/books/9784873117898/
+アルゴリズムクイックリファレンス 第2版,"3,168",https://www.oreilly.co.jp/books/9784873117850/
+Cooking for Geeks 第2版,"2,992",https://www.oreilly.co.jp/books/9784873117874/
+デザインスプリント,"2,640",https://www.oreilly.co.jp/books/9784873117805/
+実践 Appium,"2,112",https://www.oreilly.co.jp/books/9784873117843/
+情報アーキテクチャ 第4版,"3,168",https://www.oreilly.co.jp/books/9784873117720/
+Cクイックリファレンス 第2版,"4,048",https://www.oreilly.co.jp/books/9784873117812/
+リーンエンタープライズ,"2,992",https://www.oreilly.co.jp/books/9784873117744/
+行列プログラマー,"4,752",https://www.oreilly.co.jp/books/9784873117775/
+ゼロから作るDeep Learning,"2,992",https://www.oreilly.co.jp/books/9784873117584/
+デザインの伝え方,"2,464",https://www.oreilly.co.jp/books/9784873117799/
+Processingをはじめよう 第2版,"1,760",https://www.oreilly.co.jp/books/9784873117737/
+UnityによるVRアプリケーション開発,"2,640",https://www.oreilly.co.jp/books/9784873117577/
+リーンブランディング,"2,640",https://www.oreilly.co.jp/books/9784873117690/
+Docker,"3,168",https://www.oreilly.co.jp/books/9784873117768/
+続・インタフェースデザインの心理学,"2,464",https://www.oreilly.co.jp/books/9784873117713/
+CSSシークレット,"2,992",https://www.oreilly.co.jp/books/9784873117669/
+初めてのThree.js 第2版,"3,520",https://www.oreilly.co.jp/books/9784873117706/
+パフォーマンス向上のためのデザイン設計,"2,112",https://www.oreilly.co.jp/books/9784873117553/
+データ分析によるネットワークセキュリティ,"3,168",https://www.oreilly.co.jp/books/9784873117003/
+UX戦略,"2,640",https://www.oreilly.co.jp/books/9784873117546/
+Pythonからはじめる数学入門,"2,464",https://www.oreilly.co.jp/books/9784873117683/
+あなたの知らないところでソフトウェアは何をしているのか？,"2,288",https://www.oreilly.co.jp/books/9784873117676/
+発酵の技法,"3,168",https://www.oreilly.co.jp/books/9784873117638/
+初めてのAnsible,"2,816",https://www.oreilly.co.jp/books/9784873117652/
+カンバン仕事術,"3,168",https://www.oreilly.co.jp/books/9784873117645/
+初めてのAndroid 第4版,"2,200",https://www.oreilly.co.jp/books/9784873117492/
+マイクロサービスアーキテクチャ,"2,992",https://www.oreilly.co.jp/books/9784873117607/
+Rパッケージ開発入門,"2,464",https://www.oreilly.co.jp/books/9784873117591/
+Sparkによる実践データ解析,"2,992",https://www.oreilly.co.jp/books/9784873117508/
+Go言語によるWebアプリケーション開発,"2,816",https://www.oreilly.co.jp/books/9784873117522/
+物を作って生きるには,"1,936",https://www.oreilly.co.jp/books/9784873117478/
+実践 Python 3,"2,992",https://www.oreilly.co.jp/books/9784873117393/
+Arduinoをはじめよう 第3版,"1,760",https://www.oreilly.co.jp/books/9784873117331/
+ハイパフォーマンスPython,"3,168",https://www.oreilly.co.jp/books/9784873117409/
+サイバーセキュリティプログラミング,"2,640",https://www.oreilly.co.jp/books/9784873117317/
+JavaScriptによるデータビジュアライゼーション入門,"3,168",https://www.oreilly.co.jp/books/9784873117461/
+メタプログラミングRuby 第2版,"2,640",https://www.oreilly.co.jp/books/9784873117430/
+Effective Modern C++,"3,344",https://www.oreilly.co.jp/books/9784873117362/
+Seleniumデザインパターン & ベストプラクティス,"2,640",https://www.oreilly.co.jp/books/9784873117423/
+コマンドラインではじめるデータサイエンス,"2,288",https://www.oreilly.co.jp/books/9784873117416/
+実践 JUnit,"2,464",https://www.oreilly.co.jp/books/9784873117300/
+ゲームサウンド制作ガイド,"2,640",https://www.oreilly.co.jp/books/9784873117294/
+初めてのSpark,"2,816",https://www.oreilly.co.jp/books/9784873117348/
+Caffeをはじめよう,"1,650",https://www.oreilly.co.jp/books/9784873117454/
+Think Stats 第2版,"2,112",https://www.oreilly.co.jp/books/9784873117355/
+Mithril,"1,650",https://www.oreilly.co.jp/books/9784873117447/
+ユーザーストーリーマッピング,"2,640",https://www.oreilly.co.jp/books/9784873117324/
+ヘルシープログラマ,"2,288",https://www.oreilly.co.jp/books/9784873117287/
+CSS3開発者ガイド 第2版,"2,816",https://www.oreilly.co.jp/books/9784873117256/
+Cython,"2,816",https://www.oreilly.co.jp/books/9784873117270/
+詳説 イーサネット 第2版,"4,048",https://www.oreilly.co.jp/books/9784873117171/
+データ匿名化手法,"2,464",https://www.oreilly.co.jp/books/9784873117249/
+トラクション,"1,936",https://www.oreilly.co.jp/books/9784873117225/
+Diameterプロトコルガイド,"3,432",https://www.oreilly.co.jp/books/9784873117027/
+リーン顧客開発,"2,288",https://www.oreilly.co.jp/books/9784873117218/
+詳解 WordPress,"2,288",https://www.oreilly.co.jp/books/9784873116785/
+Javaパフォーマンス,"3,432",https://www.oreilly.co.jp/books/9784873117188/
+入門 React,"2,288",https://www.oreilly.co.jp/books/9784873117195/
+作ることで学ぶ,"2,640",https://www.oreilly.co.jp/books/9784873117201/
+コンピュータシステムの理論と実装,"3,168",https://www.oreilly.co.jp/books/9784873117126/
+グラフデータベース,"2,640",https://www.oreilly.co.jp/books/9784873117140/
+RStudioではじめるRプログラミング入門,"2,288",https://www.oreilly.co.jp/books/9784873117157/
+Google BigQuery,"4,048",https://www.oreilly.co.jp/books/9784873117164/
+Bluetooth Low Energyをはじめよう,"2,024",https://www.oreilly.co.jp/books/9784873117133/
+モバイルデザインパターン 第2版,"3,256",https://www.oreilly.co.jp/books/9784873117034/
+Lean Analytics,"2,904",https://www.oreilly.co.jp/books/9784873117119/
+統計クイックリファレンス 第2版,"3,256",https://www.oreilly.co.jp/books/9784873117102/
+Android KitKat Hacks,"2,288",https://www.oreilly.co.jp/books/9784873116990/
+Serverspec,"2,464",https://www.oreilly.co.jp/books/9784873117096/
+詳解 Tomcat,"4,048",https://www.oreilly.co.jp/books/9784873117058/
+デザイニング・マルチデバイス・エクスペリエンス,"2,992",https://www.oreilly.co.jp/books/9784873117089/
+詳解 iOS SDK 第4版,"4,048",https://www.oreilly.co.jp/books/9784873116754/
+実践 遺伝的アルゴリズム,"1,980",https://www.oreilly.co.jp/books/9784873117072/
+WordPressによるWebアプリケーション開発,"3,344",https://www.oreilly.co.jp/books/9784873117065/
+Web API: The Good Parts,"1,936",https://www.oreilly.co.jp/books/9784873116860/
+実践 機械学習システム,"2,816",https://www.oreilly.co.jp/books/9784873116983/
+データサイエンス講義,"2,640",https://www.oreilly.co.jp/books/9784873117010/
+Javaによる関数型プログラミング,"2,288",https://www.oreilly.co.jp/books/9784873117041/
+Intel Galileoをはじめよう,"2,024",https://www.oreilly.co.jp/books/9784873116969/
+ZooKeeperによる分散システム管理,"2,640",https://www.oreilly.co.jp/books/9784873116938/
+実践 Selenium WebDriver,"2,640",https://www.oreilly.co.jp/books/9784873116952/
+Python文法詳解,"2,816",https://www.oreilly.co.jp/books/9784873116884/
+アンダースタンディング コンピュテーション,"2,816",https://www.oreilly.co.jp/books/9784873116976/
+モダンWeb,"2,640",https://www.oreilly.co.jp/books/9784873116921/
+Think Bayes,"2,112",https://www.oreilly.co.jp/books/9784873116945/
+Haskellによる並列・並行プログラミング,"3,168",https://www.oreilly.co.jp/books/9784873116891/
+エンジニアのためのフィードバック制御入門,"2,816",https://www.oreilly.co.jp/books/9784873116846/
+プログラミング HTML5 Canvas,"3,344",https://www.oreilly.co.jp/books/9784873116877/
+戦略的データサイエンス入門,"2,464",https://www.oreilly.co.jp/books/9784873116853/
+入門 iOS SDK,"2,640",https://www.oreilly.co.jp/books/9784873116747/
+入門 ソーシャルデータ 第2版,"3,168",https://www.oreilly.co.jp/books/9784873116792/
+オブジェクト指向JavaScriptの原則,"2,112",https://www.oreilly.co.jp/books/9784873116815/
+ハイパフォーマンス ブラウザネットワーキング,"3,520",https://www.oreilly.co.jp/books/9784873116761/
+word2vecによる自然言語処理,"1,540",https://www.oreilly.co.jp/books/9784873116839/
+3D Printing Handbook,"1,936",https://www.oreilly.co.jp/books/9784873116327/
+アルゴリズムパズル,"2,640",https://www.oreilly.co.jp/books/9784873116693/
+アジャイルデータサイエンス,"2,288",https://www.oreilly.co.jp/books/9784873116716/
+実践 Android Developer Tools,"2,288",https://www.oreilly.co.jp/books/9784873116709/
+AngularJSアプリケーション開発ガイド,"2,112",https://www.oreilly.co.jp/books/9784873116679/
+プログラミングPHP 第3版,"3,344",https://www.oreilly.co.jp/books/9784873116686/
+Cloudera Impala,0,https://www.oreilly.co.jp/books/9784873116723/
+マイクロインタラクション,"2,112",https://www.oreilly.co.jp/books/9784873116594/
+Apache Sqoop クックブック,"1,430",https://www.oreilly.co.jp/books/9784873116624/
+実践 Vagrant,"2,288",https://www.oreilly.co.jp/books/9784873116655/
+インタラクティブ・データビジュアライゼーション,"2,464",https://www.oreilly.co.jp/books/9784873116464/
+Backbone.jsアプリケーション開発ガイド,"2,992",https://www.oreilly.co.jp/books/9784873116587/
+Rクイックリファレンス 第2版,"3,696",https://www.oreilly.co.jp/books/9784873116518/
+JavaMail API,"1,870",https://www.oreilly.co.jp/books/9784873116631/
+JavaScriptで学ぶ関数型プログラミング,"2,640",https://www.oreilly.co.jp/books/9784873116600/
+詳説 Cポインタ,"1,936",https://www.oreilly.co.jp/books/9784873116563/
+NFC Hacks,"2,816",https://www.oreilly.co.jp/books/9784873116242/
+Hadoopオペレーション,"2,816",https://www.oreilly.co.jp/books/9784873116525/
+実践ハイパフォーマンスMySQL 第3版,"4,224",https://www.oreilly.co.jp/books/9784873116389/
+PHP開発者のためのJavaScript,"2,090",https://www.oreilly.co.jp/books/9784873116433/
+入門 Unix for OS X 第5版,"2,112",https://www.oreilly.co.jp/books/9784873116440/
+マスタリングNginx,"2,640",https://www.oreilly.co.jp/books/9784873116457/
+HTML5 Hacks,"2,816",https://www.oreilly.co.jp/books/9784873116471/
+入門 Kindle Fireのアプリ内課金,"1,320",https://www.oreilly.co.jp/books/9784873116495/
+イーサネットスイッチ,"1,430",https://www.oreilly.co.jp/books/9784873116426/
+バッドデータハンドブック,"2,464",https://www.oreilly.co.jp/books/9784873116402/
+Web Audio API,"1,430",https://www.oreilly.co.jp/books/9784873116419/
+テスタブルJavaScript,"2,640",https://www.oreilly.co.jp/books/9784873116358/
+入門 データ構造とアルゴリズム,"3,344",https://www.oreilly.co.jp/books/9784873116341/
+ビッグデータとプライバシー,"1,980",https://www.oreilly.co.jp/books/9784873116136/
+ゲームクリエイターが知るべき97のこと 2,"1,672",https://www.oreilly.co.jp/books/9784873116228/
+続・初めてのPerl 改訂第2版,"3,168",https://www.oreilly.co.jp/books/9784873116280/
+初めてのPHP、MySQL、JavaScript＆CSS 第2版,"3,168",https://www.oreilly.co.jp/books/9784873116334/
+バンディットアルゴリズムによる最適化手法,"1,430",https://www.oreilly.co.jp/books/9784873116273/
+Hadoop 第3版,"4,224",https://www.oreilly.co.jp/books/9784873116297/
+Team Geek,"1,936",https://www.oreilly.co.jp/books/9784873116303/
+コネクト,"1,936",https://www.oreilly.co.jp/books/9784873116198/
+XML & InDesign,"2,090",https://www.oreilly.co.jp/books/9784873116259/
+CSS3の値、単位、色,770,https://www.oreilly.co.jp/books/9784873116266/
+開眼！ JavaScript,"1,936",https://www.oreilly.co.jp/books/9784873116211/
+プログラミング Hive,"3,344",https://www.oreilly.co.jp/books/9784873116174/
+EPUB 3とは何か？,0,https://www.oreilly.co.jp/books/9784873115528/
+入門 Androidアプリケーションテスト,"2,816",https://www.oreilly.co.jp/books/9784873115788/
+JavaScriptデザインパターン,"2,464",https://www.oreilly.co.jp/books/9784873116181/
+実践 Fiddler,"2,816",https://www.oreilly.co.jp/books/9784873116167/
+入門 ClojureScript,"1,980",https://www.oreilly.co.jp/books/9784873116129/
+セレクタ、詳細度、カスケード,"1,430",https://www.oreilly.co.jp/books/9784873116037/
+RとRubyによるデータ解析入門,"2,464",https://www.oreilly.co.jp/books/9784873116150/
+テスト駆動開発による組み込みプログラミング,"3,168",https://www.oreilly.co.jp/books/9784873116143/
+インタフェースデザインの実践教室,"2,640",https://www.oreilly.co.jp/books/9784873116082/
+例題で学ぶ微分方程式,"1,430",https://www.oreilly.co.jp/books/9784873116020/
+Head First C,"3,168",https://www.oreilly.co.jp/books/9784873116099/
+Stormをはじめよう,"1,760",https://www.oreilly.co.jp/books/9784873116013/
+C#での非同期処理,"1,980",https://www.oreilly.co.jp/books/9784873116044/
+Making Things See,"3,168",https://www.oreilly.co.jp/books/9784873116112/
+実践 コンピュータビジョン,"2,640",https://www.oreilly.co.jp/books/9784873116075/
+メンテナブルJavaScript,"2,288",https://www.oreilly.co.jp/books/9784873116105/
+Land of Lisp,"3,344",https://www.oreilly.co.jp/books/9784873115870/
+Nodeクックブック,"2,992",https://www.oreilly.co.jp/books/9784873116068/
+入門 モダンJavaScript,"2,640",https://www.oreilly.co.jp/books/9784873116051/
+ビッグデータの倫理,"1,430",https://www.oreilly.co.jp/books/9784873116006/
+アクセシビリティハンドブック,"1,650",https://www.oreilly.co.jp/books/9784873115993/
+SQLアンチパターン,"2,816",https://www.oreilly.co.jp/books/9784873115894/
+Web Workers,"1,320",https://www.oreilly.co.jp/books/9784873115962/
+Couchbase Serverをはじめよう,"1,540",https://www.oreilly.co.jp/books/9784873115986/
+実践 jQuery Mobile,"2,288",https://www.oreilly.co.jp/books/9784873115924/
+入門 機械学習,"2,816",https://www.oreilly.co.jp/books/9784873115948/
+Running Lean,"1,936",https://www.oreilly.co.jp/books/9784873115917/
+概説Tornado,"2,090",https://www.oreilly.co.jp/books/9784873115764/
+D3をはじめよう,"1,430",https://www.oreilly.co.jp/books/9784873115979/
+Fab,"2,024",https://www.oreilly.co.jp/books/9784873115887/
+Linuxプログラミングインタフェース,"6,688",https://www.oreilly.co.jp/books/9784873115856/
+Windows 8スタイルアプリをはじめよう,"1,320",https://www.oreilly.co.jp/books/9784873115740/
+ゲームクリエイターが知るべき97のこと,"1,672",https://www.oreilly.co.jp/books/9784873115702/
+実践 スマートフォンアプリケーション開発,"3,344",https://www.oreilly.co.jp/books/9784873115481/
+カンフーマック,"2,464",https://www.oreilly.co.jp/books/9784873115825/
+初めてのiOSプログラミング 第2版,"2,816",https://www.oreilly.co.jp/books/9784873115832/
+OAuth 2.0をはじめよう,"1,430",https://www.oreilly.co.jp/books/9784873115580/
+Spring Integration,"1,650",https://www.oreilly.co.jp/books/9784873115771/
+MySQLトラブルシューティング,"2,464",https://www.oreilly.co.jp/books/9784873115863/
+アート・オブ・Rプログラミング,"2,816",https://www.oreilly.co.jp/books/9784873115795/
+初めてのHTML5ゲームプログラミング,"1,760",https://www.oreilly.co.jp/books/9784873115603/
+Amazon Web Servicesプログラミング,"2,816",https://www.oreilly.co.jp/books/9784873115818/
+入門 Sinatra,"1,870",https://www.oreilly.co.jp/books/9784873115597/
+DNS & BIND on IPv6,"1,320",https://www.oreilly.co.jp/books/9784873115627/
+iOSプログラミング ビルド＆リリース,"1,760",https://www.oreilly.co.jp/books/9784873115610/
+プログラマのためのサバイバルマニュアル,"1,936",https://www.oreilly.co.jp/books/9784873115719/
+「レベルアップ」のゲームデザイン,"3,168",https://www.oreilly.co.jp/books/9784873115634/
+HBase,"3,696",https://www.oreilly.co.jp/books/9784873115665/
+MongoDB & PHP,"1,430",https://www.oreilly.co.jp/books/9784873115511/
+Python & AWS クックブック,"1,650",https://www.oreilly.co.jp/books/9784873115436/
+感じて理解する数学入門,"1,650",https://www.oreilly.co.jp/books/9784873115641/
+リーダブルコード,"2,112",https://www.oreilly.co.jp/books/9784873115658/
+HTML5クックブック,"2,464",https://www.oreilly.co.jp/books/9784873115474/
+デザイニング・データビジュアライゼーション,"1,760",https://www.oreilly.co.jp/books/9784873115429/
+Java開発者のための関数プログラミング ,"1,430",https://www.oreilly.co.jp/books/9784873115405/
+ステートフルJavaScript,"2,464",https://www.oreilly.co.jp/books/9784873115542/
+FabLife,"1,936",https://www.oreilly.co.jp/books/9784873115559/
+MongoDB & Python,"1,430",https://www.oreilly.co.jp/books/9784873115443/
+オープンソースで学ぶ社会ネットワーク分析,"1,980",https://www.oreilly.co.jp/books/9784873115504/
+PDF構造解説,"1,936",https://www.oreilly.co.jp/books/9784873115498/
+実践 Metasploit,"3,344",https://www.oreilly.co.jp/books/9784873115382/
+Hadoop Hacks,"3,168",https://www.oreilly.co.jp/books/9784873115467/
+実践 Qt 4プログラミング,"3,696",https://www.oreilly.co.jp/books/9784873115078/
+jQueryデスクトップリファレンス ,"1,430",https://www.oreilly.co.jp/books/9784873115245/
+HTML5 ファイルシステムAPI,"1,430",https://www.oreilly.co.jp/books/9784873115399/
+JavaScriptグラフィックス,"2,464",https://www.oreilly.co.jp/books/9784873115283/
+vi & Vim デスクトップリファレンス 第2版,"1,430",https://www.oreilly.co.jp/books/9784873115207/
+モバイルAIRによるクロスプラットフォームアプリケーション開発,"1,980",https://www.oreilly.co.jp/books/9784873115450/
+HTML5 ジオロケーション,"1,760",https://www.oreilly.co.jp/books/9784873115238/
+Jenkins,"3,168",https://www.oreilly.co.jp/books/9784873115344/
+プログラミングAndroid,"2,992",https://www.oreilly.co.jp/books/9784873115351/
+IPv6アプリケーション適応ガイド,"1,320",https://www.oreilly.co.jp/books/9784873115191/
+HTML5 Canvasデスクトップリファレンス,"1,430",https://www.oreilly.co.jp/books/9784873115252/
+HTML5 Canvas,"2,816",https://www.oreilly.co.jp/books/9784873115276/
+Flex 4.5によるAndroidアプリケーション開発,"1,650",https://www.oreilly.co.jp/books/9784873115184/
+スケーリングMongoDB,"1,430",https://www.oreilly.co.jp/books/9784873115221/
+マネージャーのための仮想化ガイド,"1,430",https://www.oreilly.co.jp/books/9784873115214/
+言語実装パターン,"3,168",https://www.oreilly.co.jp/books/9784873115320/
+Cassandra,"2,992",https://www.oreilly.co.jp/books/9784873115290/
+デザイニング・インターフェース 第2版,"4,048",https://www.oreilly.co.jp/books/9784873115313/
+jQuery Mobile,"1,672",https://www.oreilly.co.jp/books/9784873115269/
+XBeeで作るワイヤレスセンサーネットワーク,"2,816",https://www.oreilly.co.jp/books/9784873115306/
+プロジェクト・マネジャーが知るべき97のこと,"1,672",https://www.oreilly.co.jp/books/9784873115108/
+ビューティフルビジュアライゼーション,"3,344",https://www.oreilly.co.jp/books/9784873115047/
+Firefox Hacks Rebooted,"2,992",https://www.oreilly.co.jp/books/9784873114972/
+Hacking：美しき策謀 第2版,"3,696",https://www.oreilly.co.jp/books/9784873115146/
+Hadoop MapReduce デザインパターン,"2,464",https://www.oreilly.co.jp/books/9784873115122/
+Making Software,"3,344",https://www.oreilly.co.jp/books/9784873115115/
+Unityによる3Dゲーム開発入門,"2,992",https://www.oreilly.co.jp/books/9784873115061/
+Enterprise JavaBeans 3.1 第6版,"3,696",https://www.oreilly.co.jp/books/9784873115085/
+ゲームストーミング,"2,288",https://www.oreilly.co.jp/books/9784873115054/
+Linuxカーネル Hacks,"3,520",https://www.oreilly.co.jp/books/9784873115016/
+初めてのOpenGL ES,"2,464",https://www.oreilly.co.jp/books/9784873114965/
+Made by Hand,"1,936",https://www.oreilly.co.jp/books/9784873115009/
+Being Geek,"2,024",https://www.oreilly.co.jp/books/9784873114996/
+iPhoneアプリ設計の極意,"2,992",https://www.oreilly.co.jp/books/9784873115023/
+アート・オブ・コミュニティ,"2,464",https://www.oreilly.co.jp/books/9784873114958/
+子どもが体験するべき50の危険なこと,"1,760",https://www.oreilly.co.jp/books/9784873114989/
+ウェブオペレーション,"2,288",https://www.oreilly.co.jp/books/9784873114934/
+JavaScriptクックブック,"3,344",https://www.oreilly.co.jp/books/9784873114941/
+入門 HTML5,"2,024",https://www.oreilly.co.jp/books/9784873114828/
+大規模Webアプリケーション開発入門,"2,464",https://www.oreilly.co.jp/books/9784873114927/
+ハイパフォーマンスJavaScript,"2,464",https://www.oreilly.co.jp/books/9784873114903/
+iPhone 3Dプログラミング,"3,344",https://www.oreilly.co.jp/books/9784873114842/
+プログラミング Windows Azure,"3,168",https://www.oreilly.co.jp/books/9784873114804/
+ビューティフルデータ,"2,992",https://www.oreilly.co.jp/books/9784873114897/
+Androidアプリケーション開発ガイド,"1,672",https://www.oreilly.co.jp/books/9784873114866/
+Java: The Good Parts,"1,936",https://www.oreilly.co.jp/books/9784873114873/
+JavaScriptパターン,"2,464",https://www.oreilly.co.jp/books/9784873114880/
+プログラミングGoogle App Engine,"2,992",https://www.oreilly.co.jp/books/9784873114750/
+プログラミングScala,"3,344",https://www.oreilly.co.jp/books/9784873114811/
+エレガントな問題解決,"2,816",https://www.oreilly.co.jp/books/9784873114057/
+アナライジング・マルウェア,"2,640",https://www.oreilly.co.jp/books/9784873114552/
+プログラマが知るべき97のこと,"1,672",https://www.oreilly.co.jp/books/9784873114798/
+PHP: The Good Parts,"1,584",https://www.oreilly.co.jp/books/9784873114781/
+検索と発見のためのデザイン,"2,112",https://www.oreilly.co.jp/books/9784873114767/
+入門 自然言語処理,"3,344",https://www.oreilly.co.jp/books/9784873114705/
+ビューティフルテスティング,"2,816",https://www.oreilly.co.jp/books/9784873114743/
+iOS SDK Hacks,"2,112",https://www.oreilly.co.jp/books/9784873114729/
+言語設計者たちが考えること,"3,168",https://www.oreilly.co.jp/books/9784873114712/
+初めてのプログラミング 第2版,"1,760",https://www.oreilly.co.jp/books/9784873114699/
+iPhone/iPadゲーム開発ガイド,"2,464",https://www.oreilly.co.jp/books/9784873114620/
+プログラミングF#,"3,168",https://www.oreilly.co.jp/books/9784873114668/
+JavaによるRESTfulシステム構築,"2,816",https://www.oreilly.co.jp/books/9784873114675/
+jQueryクックブック,"3,168",https://www.oreilly.co.jp/books/9784873114682/
+iPhoneアプリケーション開発ガイド,"1,672",https://www.oreilly.co.jp/books/9784873114613/
+Erlangプログラミング,"3,168",https://www.oreilly.co.jp/books/9784873114651/
+初めてのコンピュータサイエンス,"2,112",https://www.oreilly.co.jp/books/9784873114637/
+Head Firstデータ解析,"2,816",https://www.oreilly.co.jp/books/9784873114644/
+アプレンティスシップ・パターン,"1,936",https://www.oreilly.co.jp/books/9784873114606/
+ビューティフルセキュリティ,"2,464",https://www.oreilly.co.jp/books/9784873114590/
+セマンティックWeb プログラミング,"2,816",https://www.oreilly.co.jp/books/9784873114521/
+クラウド セキュリティ & プライバシー,"2,992",https://www.oreilly.co.jp/books/9784873114583/
+リバースエンジニアリング,"2,816",https://www.oreilly.co.jp/books/9784873114484/
+セキュリティの神話,"1,936",https://www.oreilly.co.jp/books/9784873114514/
+マスタリングXMPP,"2,816",https://www.oreilly.co.jp/books/9784873114477/
+正規表現クックブック,"3,696",https://www.oreilly.co.jp/books/9784873114507/
+続・ハイパフォーマンスWebサイト,"2,464",https://www.oreilly.co.jp/books/9784873114460/
+Head First PHP & MySQL,"3,696",https://www.oreilly.co.jp/books/9784873114446/
+Rubyベストプラクティス,"2,816",https://www.oreilly.co.jp/books/9784873114453/
+Head Firstネットワーク,"2,816",https://www.oreilly.co.jp/books/9784873114439/
+実用Git,"2,464",https://www.oreilly.co.jp/books/9784873114408/
+Head First Rails,"3,344",https://www.oreilly.co.jp/books/9784873114385/
+デザイニング・ウェブインターフェース,"3,344",https://www.oreilly.co.jp/books/9784873114347/
+並行コンピューティング技法,"2,816",https://www.oreilly.co.jp/books/9784873114354/
+ウェブアプリケーションのためのユニバーサルデザイン,"2,288",https://www.oreilly.co.jp/books/9784873114323/
+オプティマイジングWebサイト,"3,168",https://www.oreilly.co.jp/books/9784873114316/
+ビューティフルアーキテクチャ,"2,640",https://www.oreilly.co.jp/books/9784873114309/
+組み込みLinuxシステム構築 第2版,"3,872",https://www.oreilly.co.jp/books/9784873114224/
+Real World Haskell,"3,344",https://www.oreilly.co.jp/books/9784873114231/
+ソフトウェアアーキテクトが知るべき97のこと,"1,672",https://www.oreilly.co.jp/books/9784873114293/
+Silverlightで開発するデータ駆動アプリケーション,"2,992",https://www.oreilly.co.jp/books/9784873114194/
+iPhone SDK アプリケーション開発ガイド,"2,992",https://www.oreilly.co.jp/books/9784873114170/
+Head First Statistics,"2,816",https://www.oreilly.co.jp/books/9784873114200/
+実用 Subversion 第2版,"2,992",https://www.oreilly.co.jp/books/9784873114149/
+オープンソースソフトウェアの育て方,"2,464",https://www.oreilly.co.jp/books/9784873114125/
+エンタープライズ Rails,"2,816",https://www.oreilly.co.jp/books/9784873114163/
+実践 デバッグ技法,"2,464",https://www.oreilly.co.jp/books/9784873114064/
+デザイニング・ウェブナビゲーション,"3,520",https://www.oreilly.co.jp/books/9784873114101/
+リファクタリング・ウェットウェア,"2,464",https://www.oreilly.co.jp/books/9784873114033/
+Debug Hacks,"2,816",https://www.oreilly.co.jp/books/9784873114040/
+プロダクティブ・プログラマ,"2,288",https://www.oreilly.co.jp/books/9784873114026/
+マスタリングPerl,"3,168",https://www.oreilly.co.jp/books/9784873113975/
+キャパシティプランニング,"2,112",https://www.oreilly.co.jp/books/9784873113999/
+Railsデプロイ,"2,464",https://www.oreilly.co.jp/books/9784873114002/
+初めてのPython 第3版,"4,048",https://www.oreilly.co.jp/books/9784873113937/
+アート・オブ・アジャイル デベロップメント,"3,168",https://www.oreilly.co.jp/books/9784873113951/
+プログラミング言語 Ruby,"3,344",https://www.oreilly.co.jp/books/9784873113944/
+Head Firstソフトウェア開発,"3,168",https://www.oreilly.co.jp/books/9784873113920/
+ThoughtWorksアンソロジー,"2,288",https://www.oreilly.co.jp/books/9784873113890/
+JavaScript: The Good Parts,"1,584",https://www.oreilly.co.jp/books/9784873113913/
+DNS & BIND 第5版,"4,224",https://www.oreilly.co.jp/books/9784873113906/
+Tomcatハンドブック 第2版,"4,136",https://www.oreilly.co.jp/books/9784873113883/
+Making Things Talk,"3,344",https://www.oreilly.co.jp/books/9784873113845/
+Subject To Change,"1,584",https://www.oreilly.co.jp/books/9784873113852/
+実践 Rails,"2,640",https://www.oreilly.co.jp/books/9784873113869/
+Windows PowerShellクックブック,"3,520",https://www.oreilly.co.jp/books/9784873113821/
+Head First C#,"3,696",https://www.oreilly.co.jp/books/9784873113838/
+bashクックブック,"3,696",https://www.oreilly.co.jp/books/9784873113760/
+Apacheクックブック 第2版,"2,816",https://www.oreilly.co.jp/books/9784873113814/
+C#クックブック 第3版,"4,048",https://www.oreilly.co.jp/books/9784873113746/
+Head First JavaScript,"3,520",https://www.oreilly.co.jp/books/9784873113739/
+Prototype & script.aculo.us,"2,816",https://www.oreilly.co.jp/books/9784873113722/
+初めてのRuby,"1,936",https://www.oreilly.co.jp/books/9784873113678/
+JavaScript & DHTMLクックブック 第2版,"3,696",https://www.oreilly.co.jp/books/9784873113708/
+Head First SQL,"3,696",https://www.oreilly.co.jp/books/9784873113692/
+初めてのPHP & MySQL 第2版,"2,992",https://www.oreilly.co.jp/books/9784873113654/
+インターフェイス指向設計,"2,288",https://www.oreilly.co.jp/books/9784873113661/
+詳説 正規表現 第3版,"4,224",https://www.oreilly.co.jp/books/9784873113593/
+ビューティフルコード,"3,344",https://www.oreilly.co.jp/books/9784873113630/
+Linuxシステムプログラミング,"3,168",https://www.oreilly.co.jp/books/9784873113623/
+ハイパフォーマンスWebサイト,"1,584",https://www.oreilly.co.jp/books/9784873113616/
+プログラミングGauche,"2,816",https://www.oreilly.co.jp/books/9784873113487/
+Rubyスクリプティングテクニック,"2,200",https://www.oreilly.co.jp/books/9784873113562/
+インテル スレッディング・ビルディング・ブロック,"3,080",https://www.oreilly.co.jp/books/9784873113555/
+Ajaxアプリケーション & Webセキュリティ,"2,288",https://www.oreilly.co.jp/books/9784873113586/
+ネットワークウォリア,"4,224",https://www.oreilly.co.jp/books/9784873113548/
+RESTful Webサービス,"3,344",https://www.oreilly.co.jp/books/9784873113531/
+Head Firstオブジェクト指向分析設計,"3,520",https://www.oreilly.co.jp/books/9784873113494/
+エンタープライズSOA,"4,400",https://www.oreilly.co.jp/books/9784873113340/
+入門 Qt 4プログラミング,"3,344",https://www.oreilly.co.jp/books/9784873113449/
+詳解 MySQL,"2,816",https://www.oreilly.co.jp/books/9784873113432/
+Linuxシステム管理,"2,464",https://www.oreilly.co.jp/books/9784873113463/
+イノベーションの神話,"1,584",https://www.oreilly.co.jp/books/9784873113456/
+Google Maps Hacks 第2版,"2,552",https://www.oreilly.co.jp/books/9784873113418/
+アート・オブ・SQL,"2,816",https://www.oreilly.co.jp/books/9784873113364/
+Mind パフォーマンス Hacks,"2,464",https://www.oreilly.co.jp/books/9784873113371/
+Ajax & Java,"2,112",https://www.oreilly.co.jp/books/9784873113333/
+SQL Hacks,"2,640",https://www.oreilly.co.jp/books/9784873113319/
+Ajax on Rails,"2,464",https://www.oreilly.co.jp/books/9784873113326/
+Linuxカーネル クイックリファレンス,"2,112",https://www.oreilly.co.jp/books/9784873113302/
+Python クックブック 第2版,"3,696",https://www.oreilly.co.jp/books/9784873112763/
+CとGNU開発ツールによる組み込みシステムプログラミング 第2版,"2,816",https://www.oreilly.co.jp/books/9784873113265/
+IPv6 エッセンシャルズ 第2版,"3,168",https://www.oreilly.co.jp/books/9784873113289/
+ネットワークセキュリティHacks 第2版,"2,816",https://www.oreilly.co.jp/books/9784873113272/
+Ajaxデザインパターン,"4,224",https://www.oreilly.co.jp/books/9784873113234/
+Rubyクックブック,"3,432",https://www.oreilly.co.jp/books/9784873113241/
+Google Hacks 第3版,"2,816",https://www.oreilly.co.jp/books/9784873113210/
+入門 GNU Emacs 第3版,"3,344",https://www.oreilly.co.jp/books/9784873112770/
+詳解 Linuxカーネル 第3版,"5,808",https://www.oreilly.co.jp/books/9784873113135/
+入門 UML 2.0,"2,464",https://www.oreilly.co.jp/books/9784873113173/
+SQLクックブック,"3,344",https://www.oreilly.co.jp/books/9784873113159/
+Head Rush Ajax,"2,992",https://www.oreilly.co.jp/books/4873113105/
+スケーラブルWebサイト,"2,992",https://www.oreilly.co.jp/books/4873113113/
+Railsレシピ,"2,464",https://www.oreilly.co.jp/books/4873113121/
+Binary Hacks,"2,816",https://www.oreilly.co.jp/books/4873112885/
+Web解析Hacks,"3,080",https://www.oreilly.co.jp/books/4873113024/
+Linuxサーバ Hacks 2,"2,816",https://www.oreilly.co.jp/books/4873113067/
+WSHクイックリファレンス 第2版,"3,344",https://www.oreilly.co.jp/books/4873113091/
+エンジニアのための時間管理術,"2,024",https://www.oreilly.co.jp/books/4873113075/
+C++クックブック,"3,784",https://www.oreilly.co.jp/books/4873113032/
+Perlベストプラクティス,"3,784",https://www.oreilly.co.jp/books/4873113008/
+初めてのC# 第2版,"2,464",https://www.oreilly.co.jp/books/487311294X/
+PHP Hacks,"3,168",https://www.oreilly.co.jp/books/4873112915/
+UML 2.0クイックリファレンス,"2,200",https://www.oreilly.co.jp/books/4873112842/
+Asterisk,"3,344",https://www.oreilly.co.jp/books/4873112893/
+詳説 ビジネスプロセスモデリング,"2,816",https://www.oreilly.co.jp/books/4873112907/
+入門 Webマッピング,"2,992",https://www.oreilly.co.jp/books/4873112826/
+Windowsサーバークックブック,"3,872",https://www.oreilly.co.jp/books/4873112850/
+入門 PHPセキュリティ,"1,584",https://www.oreilly.co.jp/books/4873112869/
+アンビエント・ファインダビリティ,"1,672",https://www.oreilly.co.jp/books/4873112834/
+Head First Java 第2版,"3,520",https://www.oreilly.co.jp/books/4873112796/
+データベース実践講義,"2,816",https://www.oreilly.co.jp/books/4873112753/
+Maven,"2,112",https://www.oreilly.co.jp/books/4873112702/
+Jakarta Strutsクックブック,"2,992",https://www.oreilly.co.jp/books/4873112737/
+プレファクタリング,"2,464",https://www.oreilly.co.jp/books/4873112729/
+GNU Make 第3版,"2,464",https://www.oreilly.co.jp/books/4873112699/
+Podcasting Hacks,"2,464",https://www.oreilly.co.jp/books/4873112664/
+入門 bash 第3版,"2,464",https://www.oreilly.co.jp/books/4873112540/
+Linuxデバイスドライバ 第3版,"4,840",https://www.oreilly.co.jp/books/4873112532/
+Apacheセキュリティ,"3,168",https://www.oreilly.co.jp/books/4873112567/
+Linuxデスクトップ Hacks ,"2,816",https://www.oreilly.co.jp/books/4873112516/
+MySQLクイックリファレンス,"2,816",https://www.oreilly.co.jp/books/4873112524/
+GDBハンドブック,"1,056",https://www.oreilly.co.jp/books/487311246X/
+Linuxハンドブック,"1,408",https://www.oreilly.co.jp/books/4873112370/
+Word Hacks,"2,112",https://www.oreilly.co.jp/books/4873112389/
+Flash Hacks,"3,168",https://www.oreilly.co.jp/books/4873112354/
+Knoppix Hacks,"2,464",https://www.oreilly.co.jp/books/4873112281/
+CSS完全ガイド 第2版,"3,344",https://www.oreilly.co.jp/books/487311232X/
+Windowsサーバー Hacks,"2,816",https://www.oreilly.co.jp/books/4873112265/
+PDF Hacks,"2,112",https://www.oreilly.co.jp/books/4873112222/
+Hibernate,"2,112",https://www.oreilly.co.jp/books/487311215X/
+JavaServer Faces完全ガイド,"4,312",https://www.oreilly.co.jp/books/4873111978/
+Excelポケットガイド,880,https://www.oreilly.co.jp/books/4873111714/
+RADIUS,"2,816",https://www.oreilly.co.jp/books/4873111471/
+UMLデスクトップリファレンス,"1,056",https://www.oreilly.co.jp/books/4873111544/
+SAN & NAS ストレージネットワーク管理,"2,992",https://www.oreilly.co.jp/books/4873110998/
+NFS & NIS 第2版,"4,224",https://www.oreilly.co.jp/books/4873110785/
+不正アクセス調査ガイド,"2,992",https://www.oreilly.co.jp/books/4873110793/
+C++プログラミング入門 新版,"2,464",https://www.oreilly.co.jp/books/4873110637/
+Javaネットワークプログラミング 第2版,"5,104",https://www.oreilly.co.jp/books/4873110610/
